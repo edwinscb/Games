@@ -1,0 +1,24 @@
+﻿#allPage {
+	border-radius: 15px;
+	padding: 10px;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+	opacity: 0.8;
+}
+body {
+	background-image: url('Images/Jump_Force_Wallpaper.jpg');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+li {
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: medium;
+	list-style-image: url('Images/animated-bullet-10.gif');
+}
+h4 {
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	font-size: large;
+	text-transform: capitalize;
+}
